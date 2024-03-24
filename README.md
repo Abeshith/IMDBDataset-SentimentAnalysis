@@ -1,4 +1,4 @@
-# IMDBDataset-SentimentAnalysis
+# IMDB Sentiment Analysis
 
 This project performs sentiment analysis on IMDB movie reviews using various text processing techniques and machine learning algorithms.
 
@@ -37,6 +37,7 @@ The purpose of this project is to analyze the sentiment of IMDB movie reviews an
 1. **Bag of Words (BoW)**: Represents text data as a matrix of word occurrences.
 2. **TF-IDF Vectorizer**: Computes TF-IDF (Term Frequency-Inverse Document Frequency) features from the text data.
 3. **Word2Vec**: Generates word embeddings from the text corpus.
+4. **Average Word2Vec**: Computes the average vector representation of words in each document.
 
 ### Machine Learning Models
 
@@ -47,3 +48,4 @@ The purpose of this project is to analyze the sentiment of IMDB movie reviews an
 
 - **BoW and TF-IDF**: Achieved an accuracy of [insert accuracy here] using Multinomial Naive Bayes Classifier.
 - **Word2Vec**: Achieved an accuracy of [insert accuracy here] using Random Forest Classifier.
+- **Average Word2Vec**: Achieved an accuracy of [insert accuracy here] using Random Forest Classifier.
