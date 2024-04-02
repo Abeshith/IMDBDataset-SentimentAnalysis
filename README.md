@@ -49,3 +49,6 @@ The purpose of this project is to analyze the sentiment of IMDB movie reviews an
 - **BoW and TF-IDF**: Achieved an accuracy of [insert accuracy here] using Multinomial Naive Bayes Classifier.
 - **Word2Vec**: Achieved an accuracy of [insert accuracy here] using Random Forest Classifier.
 - **Average Word2Vec**: Achieved an accuracy of [insert accuracy here] using Random Forest Classifier.
+
+## References
+https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data
